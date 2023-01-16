@@ -1212,6 +1212,7 @@ library(stringr)
 library(survival)
 library(survminer)
 library(GSVA)
+library(MuSiC)
 setwd("/home/data/project/deconvolution/")
 gse = "GSE21545"
 eSet <- getGEO(gse, 
